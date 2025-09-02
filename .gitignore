@@ -1,0 +1,10 @@
+firmware/.vscode/launch.json
+firmware/.vscode/settings.json
+firmware/bootloader-flash_args
+firmware/build.ninja
+firmware/cmake_install.cmake
+firmware/compile_commands.json
+firmware/config.env
+firmware/otadata-flash_args
+firmware/storage-flash_args
+hardware/display/description.jpg
